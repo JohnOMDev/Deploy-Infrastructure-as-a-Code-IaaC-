@@ -1,4 +1,4 @@
-							Deploy a high-availability application using CloudFormation.
+			Deploy a high-availability application using CloudFormation.
 
 Introduction
 This is a project of Cloud DevOps Engineer Nanodegree Program on Udacity.
@@ -18,4 +18,5 @@ To load server infrastructure code
 
 Result
 DNS: http://udagr-webap-1ny9a1uv79dyd-983167146.us-west-2.elb.amazonaws.com/
+
 
