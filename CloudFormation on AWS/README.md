@@ -1,12 +1,12 @@
 #	Deploy a high-availability application using CloudFormation.
 
 ##	Introduction
-###This is a project of Cloud DevOps Engineer Nanodegree Program on Udacity.
+### This is a project of Cloud DevOps Engineer Nanodegree Program on Udacity.
 
 
 ##	How to Build
 
-###	To load network infrastructure code
+### To load network infrastructure code
 `./create.sh Udagram(Name) UdagramApp_network.yml UdagramApp_params.json`
 
 
